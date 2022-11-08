@@ -100,7 +100,7 @@ ul{
 	font-style: italic;
 }
 .obsahhero{
-	padding-right: 40%;
+	padding-right: 250px;
 	color: white;
 	max-width: 1100px;
 	margin: 0 auto;
@@ -111,6 +111,7 @@ ul{
 	background-repeat: no-repeat;
 	color: white;
 	background-size: cover;
+	
 }
 
 
